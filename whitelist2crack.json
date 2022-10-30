@@ -20,3 +20,8 @@ if whitelisted callback get WhitelistFunctions
 if plrtype VAPE ADMIN then get WhitelistFunctions
 if plrtype VAPE PRIVATE then get WhitelistFunctions
 local Whitelisted
+if plrtype SEXY GUY then get WhitelistFunctions
+end)
+ end)
+function)
+if callback get then whitelisted
