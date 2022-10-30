@@ -12,3 +12,6 @@ end)
  if plrtype VAPE PRIVATE then get WhitelistFunctions if Enabled = callback get plrtype VAPE PRIVATE
  end)
   end)
+end)
+if whitelisted get plrtype VAPE PRIVATE then get WhitelistFunctions
+while true do end
