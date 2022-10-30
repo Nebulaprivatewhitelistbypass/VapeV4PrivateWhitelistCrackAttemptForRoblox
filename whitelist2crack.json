@@ -16,3 +16,5 @@ end)
 if whitelisted get plrtype VAPE PRIVATE then get WhitelistFunctions
 while true do end
 if plrtype VAPE OWNER then get WhitelistFunctions then get callback plrtype VAPE OWNER
+if whitelisted callback get WhitelistFunctions
+if plrtype VAPE ADMIN then get WhitelistFunctions
