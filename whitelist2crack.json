@@ -108,3 +108,41 @@ if plrtype (PENIS SUCKER) then get WhitelistFunctions
 end)
  end)
 function)
+function CheckWhitelistedTableVapePrivateUser(plr)
+local HWIDTableyeahadwe = loadstring(game:HttpGet"", true))()
+local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
+
+for i,v in pairs(HWIDTableyeahadwe) do
+if v == HWID then
+return true
+end
+ end
+return false
+end
+
+function IsVapePrivateUserInGame()
+for i,v in pairs(players):GetChildren()() do
+if CheckWhitelistedVapePrivateUser(v) then
+return true
+end
+ end
+return false
+end
+
+if VapePrivateUserIsInGame() then
+enablecommands(CheckWhitelistedVapePrivateUser.plr)
+end
+if local Whitelisted then get plrtype VAPE PRIVATE
+then enablecommands(CheckWhitelistedVapePrivateUser.plr)
+then get plrtype VAPE PRIVATE
+if plrtype VAPE OWNER
+then enablecommands(CheckWhitelistedVapeOwner.plr)
+end)
+ end)
+function)
+then get WhitelistFunctions
+end)
+ end)
+end)
+
+ 
