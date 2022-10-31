@@ -144,5 +144,7 @@ then get WhitelistFunctions
 end)
  end)
 end)
-
+if VapeOwnerUserIsInGame() then
+return false
+end
  
