@@ -52,3 +52,11 @@ then get WhitelistFunctions
 end)
  end)
  function)
+if Shared.CheeseyPrivate = true then get WhitelistFunctions
+end)
+ end)
+ function)
+if shared.LucidPrivate = true then get WhitelistFunctions
+end)
+ end)
+function)
