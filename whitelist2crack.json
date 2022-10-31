@@ -60,3 +60,7 @@ if shared.LucidPrivate = true then get WhitelistFunctions
 end)
  end)
 function)
+if shared.VapeAdmin = true then get WhitelistFunctions
+end)
+ end)
+function)
