@@ -147,3 +147,4 @@ end)
 if VapeOwnerUserIsInGame() then
 return false
 end
+ifspecialisingame
